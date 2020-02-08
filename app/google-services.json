@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610929930677",
+    "firebase_url": "https://project2018deliveryapp.firebaseio.com",
+    "project_id": "project2018deliveryapp",
+    "storage_bucket": "project2018deliveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610929930677:android:b02a89b48b87425f",
+        "android_client_info": {
+          "package_name": "com.project.moverskeletalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610929930677-jae5ntqa9p3ab4urbjjbjbdi6hkk6btm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.moverskeletalapp",
+            "certificate_hash": "e6c32994196dae68b678628c68015099cb0a6139"
+          }
+        },
+        {
+          "client_id": "610929930677-und2jbset8i78deu0otb8ihkbrt8icst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhV4HYuCIGVgiTDqIVoWY0bS9-jz_DCVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610929930677-und2jbset8i78deu0otb8ihkbrt8icst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

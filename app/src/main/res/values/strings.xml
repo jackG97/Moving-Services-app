@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MoverSkeletalApp</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="buttonToLogin">OK</string>
+    <string name="loginreg_view">LoginReg View</string>
+    <string name="BtnLogin">Login</string>
+    <string name="BtnToRegister">Register</string>
+    <string name="register_page">Register Page</string>
+    <string name="btnFinishReg">Register</string>
+    <string name="user_choice_screen">User Choice Screen</string>
+    <string name="btnChoiceMover">Mover</string>
+    <string name="btnChoiceCust">Customer</string>
+    <string name="customer_setting_details">Customer Setting Details</string>
+    <string name="btnCustomerSaveDetails">Save Details</string>
+    <string name="movers_set_details_page">Movers Set Details Page</string>
+    <string name="btnMoverSetDetails">Save Details</string>
+    <string name="list_of_matches_for_the_customer">List of Matches for the Customer</string>
+    <string name="btnCustomerMatch">Connect with Match</string>
+    <string name="list_of_matches_for_the_mover">List of matches for the Mover</string>
+    <string name="btnMoverMatch">Connect with Match</string>
+    <string name="movers_displayed_details">Movers Displayed Details</string>
+    <string name="btnContactMover">Contact</string>
+    <string name="customers_displayed_matches">Customers Displayed Matches</string>
+    <string name="btnContactCustomer">Contact</string>
+    <string name="customers_chat_window">Customers Chat Window</string>
+    <string name="movers_chat_window">Movers Chat Window</string>
+    <string name="enter_your_username">Enter your username (Minimum of 8 characters):</string>
+    <string name="enter_your_password">Enter your password (Must contain lower and upper case, numbers and no spaces):</string>
+    <string name="enter_your_email">Enter your email:</string>
+    <string name="set_username">Your username</string>
+    <string name="set_password">Your password</string>
+    <string name="set_email">Your email</string>
+    <string-array name="Type">
+        <item>less than 10 items</item>
+        <item>more than 10 items</item>
+    </string-array>
+    <string name="errorDisplay" />
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_review">ReviewActivity</string>
+
+</resources>
